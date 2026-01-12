@@ -4,5 +4,7 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 *.cmake
+.idea/
+cmake-build-*/
 
 .DS_Store
